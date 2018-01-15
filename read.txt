@@ -1,4 +1,8 @@
 zhang jiu an is a headsome boy
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
-jiujiujiu
+<<<<<<<
+ananan
+=======
+ananan
+>>>>>>> featurel
